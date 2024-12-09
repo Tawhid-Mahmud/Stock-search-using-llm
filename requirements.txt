@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pinecone-client
+openai
+transformers
+yfinance
+sentence-transformers
+numpy
+requests
+scikit-learn
